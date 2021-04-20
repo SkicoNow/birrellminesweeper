@@ -1,2 +1,2 @@
 # birrellminesweeper
-This is a reconstruction of Andrew Birrell's minesweeper app at http://birrell.org/andrew/minesweeper. I am not the original author of this code. I am merely reconstructing this app due the link to the original app being currently unavailable.
+This is an attempted reconstruction of Andrew Birrell's minesweeper app at http://birrell.org/andrew/minesweeper. I am not the original author of this code. I am merely trying reconstructing this app due the link to the original app being currently unavailable. This repository currently doesn't work because I don't have any experience in PHP and I'm probably missing some files from the original app's website.
